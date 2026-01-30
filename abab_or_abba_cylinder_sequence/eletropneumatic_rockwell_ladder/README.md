@@ -8,6 +8,7 @@
   
 ## Características
 - **Software:** RSLogix 5000 (Rockwell Automation)
+- **Linguagem de programação:** Ladder
 - **CLP:** Allen-Bradley CompactLogix L23E-QBFC1B
 - **Diagrama Eletropneumático:** FESTO FluidSIM
 - **Fotos**: Leonardo Gagliano
@@ -24,8 +25,10 @@
   
 ## Characteristics
 - **Software:** RSLogix 5000 (Rockwell Automation)
+- **Programming Language:** Ladder
 - **PLC:** Allen-Bradley CompactLogix L23E-QBFC1B
 - **Electropneumatic Diagram:** FESTO FluidSIM
 - **Project Photos**: Taken by Leonardo Gagliano
+
 
 
