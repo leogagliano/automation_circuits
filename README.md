@@ -1,2 +1,2 @@
 # automation_circuits
-Contains state diagrams that model the behavior and logic of specific automation circuits.
+Contains projects and state diagrams that model the behavior and logic of specific automation circuits.
